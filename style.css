@@ -176,11 +176,6 @@ main h1 {
   color: #b3b3b3;
 }
 
-.progress {
-  width: 100%;
-  accent-color: #1db954;
-}
-
 footer {
   grid-area: footer;
   background-color: #000;
